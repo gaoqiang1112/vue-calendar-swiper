@@ -35,17 +35,17 @@
         day: 0,
         calendar1:{
           totalMonth:14,   //一共显示几个月
-//                  value:[2017,11,1], //默认日期  如果没设置就默认选中今天
+//          value:[2017,11,1], //默认日期  如果没设置就默认选中今天
           values:[[2018,5,1],[2018,6,2],[2018,6,6],[2018,7,11],[2018,8,11],[2018,8,12],[2018,8,14]], //有哪些时间点是被选中的
-//                  lunar:true, //显示农历
-//                  weeks:['Sun', 'Mon' , 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
-//                  months:['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
-          events:{
-            '2017-7-7':'$408',
-            '2017-7-20':'$408',
-            '2017-7-21':'$460',
-            '2017-7-22':'$500',
-          },
+//          lunar:true, //显示农历
+//          weeks:['Sun', 'Mon' , 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'],
+//          months:['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+//          events:{
+//            '2017-7-7':'$408',
+//            '2017-7-20':'$408',
+//            '2017-7-21':'$460',
+//            '2017-7-22':'$500',
+//          },
           select(value){
             console.log(value.toString());
           },

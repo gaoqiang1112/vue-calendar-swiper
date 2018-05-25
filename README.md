@@ -16,15 +16,23 @@ npm run build
 ```
 项目效果图
 
-  ![效果图](https://github.com/gaoqiang1112/vue-calendar-plus/blob/master/src/assets/1527147468876.jpg)
+  ![效果图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/ImpressionDrawing.jpg)
 
 项目注意事项
+
     1.注意，此项目使用了swiper4，引用地址我以cdn方式引入，路径配置在了index.html里，如果你使用时，千万不要忘记
-    2.
+    ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/swiperPartExample.png)
+    
+    2.html例子
+    ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/htmlPartExample.jpg)
+    
+    3.vue例子
+    ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/vuePartExample.jpg)
+    
     
 项目介绍
 
-1.项目是再vue-calendar基础上进行改进，添加swiper，进行整合后，可实现滑动轮播，或者点击翻页按钮进行轮播切换
+1.项目是在vue-calendar基础上进行改进，添加swiper，进行整合后，可实现滑动轮播，或者点击翻页按钮进行轮播切换
 
 2.项目功能修改：
 

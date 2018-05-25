@@ -21,13 +21,13 @@ npm run build
 项目注意事项
 
     1.注意，此项目使用了swiper4，引用地址我以cdn方式引入，路径配置在了index.html里，如果你使用时，千万不要忘记
-    ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/swiperPartExample.png)
+   ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/swiperPartExample.png)
     
     2.html例子
-    ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/htmlPartExample.jpg)
+   ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/htmlPartExample.jpg)
     
     3.vue例子
-    ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/vuePartExample.jpg)
+   ![图](https://github.com/gaoqiang1112/vue-calendar-swiper/blob/master/src/assets/vuePartExample.jpg)
     
     
 项目介绍

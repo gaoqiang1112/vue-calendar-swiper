@@ -55,5 +55,5 @@ npm run build
         7）项目目前支持年份选择，暂不支持月份选择，后续补充
 
 
-
-3.项目是在vue-calendar基础上进行二次调整，尊重原创，感谢原创的代码分享，原创github地址 https://github.com/jinzhe/vue-calendar
+3.项目地址 https://github.com/gaoqiang1112/vue-calendar-swiper
+4.项目是在vue-calendar基础上进行二次调整，尊重原创，感谢原创的代码分享，原创github地址 https://github.com/jinzhe/vue-calendar

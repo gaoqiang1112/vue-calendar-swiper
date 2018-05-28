@@ -1,18 +1,19 @@
 {
   "name": "vue-calendar-swiper",
-  "description": "A Vue.js project",
-  "version": "1.0.0",
+  "description": "A module for vue-calendar just work as swiper   :) ",
+  "version": "1.0.1",
   "author": "[gaoqiang] <[gaoqiang1112@163.com]>",
   "license": "MIT",
   "private": false,
-  "main": "vue-calendar-swiper.min.js",
+  "main": "dist/vue-calendar-swiper.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaoqiang1112/vue-calendar-swiper"
+    "url": "git+https://github.com/gaoqiang1112/vue-calendar-swiper"
   },
-  "files": [
-    "dist",
-    "src"
+  "keywords": [
+    "vue-calendar",
+    "swiper",
+    "vue-calendar-swiper"
   ],
   "homepage": "https://github.com/gaoqiang1112/vue-calendar-swiper#readme",
   "scripts": {

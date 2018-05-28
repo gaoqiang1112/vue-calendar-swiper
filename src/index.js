@@ -5,11 +5,11 @@ import VueCalendarSwiper from './components/calendar.vue'
 
 const CalendarSwiper = {
   install: function (Vue) {
-    if (typeof window !== 'undefined' && window.Vue) {
-      Vue = window.Vue
-    }
+
     Vue.component('VueCalendarSwiper', VueCalendarSwiper)
   }
 }
-
+if (typeof window !== 'undefined' && window.Vue) {
+  window.Vue.use(CalendarSwiper)
+}
 export default CalendarSwiper

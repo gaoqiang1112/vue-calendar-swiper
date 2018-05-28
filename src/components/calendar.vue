@@ -310,6 +310,7 @@
 <script>
 import calendar from '../util/calendar.js'
 export default {
+    name:'VueCalendarSwiper',
     props: {
         // 一共显示多少个月
         totalMonth:{

@@ -2,14 +2,14 @@ var path = require('path')
 var webpack = require('webpack')
 
 module.exports = {
-  entry: './src/main.js',
-  // entry: './src/index.js',
+  // entry: './src/main.js',
+  entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, './dist'),
     publicPath: '/dist/',
     // filename: 'build.js'
     filename: 'vue-calendar-swiper.min.js',  //打包生成文件的名字
-    library:'CalendarSwiper',   //reqire引入的名字
+    library:'VueCalendarSwiper',   //reqire引入的名字
     libraryTarget:'umd',
     umdNamedDefine:true
   },
